@@ -32,7 +32,7 @@
     <td width="33%"><img src="./b-618.jpg" width="100%" alt="b 618"></td>
   </tr>
   <tr>
-    <td width="33%"><img src="./b-725.jpg" width="100%" alt="b 725"></td>
+    <td width="33%"><img src="./dark-mountain.jpg" width="100%" alt="dark mountain"></td>
     <td width="33%"><img src="./b-726.jpg" width="100%" alt="b 726"></td>
     <td width="33%"><img src="./car-girl-white.png" width="100%" alt="car girl white"></td>
   </tr>
@@ -49,11 +49,6 @@
   <tr>
     <td width="33%"><img src="./rm-rf.jpg" width="100%" alt="rm rf"></td>
     <td width="33%"><img src="./windows-black.jpg" width="100%" alt="windows black"></td>
-    <td width="33%"><img src="./dark-mountain.jpg" width="100%" alt="dark mountain"></td>
-  </tr>
-  <tr>
     <td width="33%"><img src="./monochrome-headless.jpg" width="100%" alt="monochrome headless"></td>
-    <td width="33%"></td>
-    <td width="33%"></td>
   </tr>
 </table>

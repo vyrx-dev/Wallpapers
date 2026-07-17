@@ -489,6 +489,26 @@
   <tr>
     <td width="33%"><img src="./tree.jpg" width="100%" alt="tree"></td>
     <td width="33%"><img src="./women-sky.jpg" width="100%" alt="women sky"></td>
+    <td width="33%"><img src="./akane.jpg" width="100%" alt="akane"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./A-painting-wallpaper-3840x2160-vibe-atmosphere-271.jpg" width="100%" alt="a painting wallpaper"></td>
+    <td width="33%"><img src="./black-mesa.jpg" width="100%" alt="black mesa"></td>
+    <td width="33%"><img src="./cozy-fall-wallpaper-3840x2160-autumn-landscape-autumn-scenery-28163.jpg" width="100%" alt="cozy fall autumn scenery"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./cozy-fall-wallpaper-3840x2160-autumn-landscapes-harvest-landscape-28166.jpg" width="100%" alt="cozy fall harvest landscape"></td>
+    <td width="33%"><img src="./cozy-fall-wallpaper-3840x2160-crisp-air-autumn-landscape-28161.jpg" width="100%" alt="cozy fall crisp air"></td>
+    <td width="33%"><img src="./cozy-fall-wallpaper-3840x2160-peaceful-meadow-warm-tones-28162.jpg" width="100%" alt="cozy fall peaceful meadow"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./dark-arch.jpg" width="100%" alt="dark arch"></td>
+    <td width="33%"><img src="./kitten-wallpaper-3840x2160-4k-whiskers-14573.jpg" width="100%" alt="kitten whiskers"></td>
+    <td width="33%"><img src="./kitten-wallpaper-3840x2160-charming-playful-26379.jpg" width="100%" alt="kitten charming playful"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallhaven_2y978y.jpg" width="100%" alt="wallhaven 2y978y"></td>
+    <td width="33%"><img src="./wallhaven_8okqe2.jpg" width="100%" alt="wallhaven 8okqe2"></td>
     <td width="33%"></td>
   </tr>
 </table>

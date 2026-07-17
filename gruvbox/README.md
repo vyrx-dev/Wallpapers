@@ -74,6 +74,21 @@
   <tr>
     <td width="33%"><img src="./wall-06.png" width="100%" alt="wall 06"></td>
     <td width="33%"><img src="./wallhaven-2e2xyx.jpg" width="100%" alt="wallhaven 2e2xyx"></td>
+    <td width="33%"><img src="./wallhaven_83xl2j.jpg" width="100%" alt="wallhaven 83xl2j"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./wallhaven_p8jzpm.jpg" width="100%" alt="wallhaven p8jzpm"></td>
+    <td width="33%"><img src="./wallhaven_wypo96.jpg" width="100%" alt="wallhaven wypo96"></td>
+    <td width="33%"><img src="./Boxes.png" width="100%" alt="Boxes"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./car-design.jpg" width="100%" alt="car design"></td>
+    <td width="33%"><img src="./fsociety-gruvbox.png" width="100%" alt="fsociety gruvbox"></td>
+    <td width="33%"><img src="./linux-light.png" width="100%" alt="linux light"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./sway.png" width="100%" alt="sway"></td>
+    <td width="33%"></td>
     <td width="33%"></td>
   </tr>
 </table>
